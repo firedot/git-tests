@@ -17,7 +17,7 @@ git init
 ````
 #Put your code after this line 
 
-git remote add origin git@github.com/firedot/git-tests.git§
+git remote add origin git@github.com/firedot/git-tests.git
 
 ````
 
@@ -89,6 +89,10 @@ git commit -m "Added Tasksfile"
 
 ````
 #Put your code after this line 
+
+git push --set-upstream origin f-addTasksfile
+
+git push
 
 ````
 
